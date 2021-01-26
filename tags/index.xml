@@ -4,6 +4,25 @@
     <title>Tags on SpurDev Blog</title>
     <link>https://hyungjun26.github.io/tags/</link>
     <description>Recent content in Tags on SpurDev Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hyungjun26.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyungjun26.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>https://hyungjun26.github.io/tags/java/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyungjun26.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>https://hyungjun26.github.io/tags/oop/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyungjun26.github.io/tags/oop/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

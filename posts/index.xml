@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SpurDev Blog</title>
-    <link>https://hyungjun26.github.io/</link>
-    <description>Recent content on SpurDev Blog</description>
+    <title>Posts on SpurDev Blog</title>
+    <link>https://hyungjun26.github.io/posts/</link>
+    <description>Recent content in Posts on SpurDev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyungjun26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyungjun26.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java 학습(1)</title>
       <link>https://hyungjun26.github.io/posts/java-basic-oop/</link>
@@ -15,15 +15,6 @@
       <description>객체지향 객체지향 개념은 개발자에게 쉽게 커스터마이징 가능하도록 하고, 유지보수성, 확장성, 재사용성을 증가시켜준다. 또한 CBD 기반의 개발은 응용프로그램이 컴포넌트 기반으로 운영되도록 하여 재사용성과 교체성을 증가시켜 모든 개발자들에게 많은 기회를 부여하였다.
 객체지향은 다음과 같은 특징을 가지고 있다.
  Abstraction(추상화): 현상에 존재하는 객체의 주요특징을 추출하는 과정 Encapsulation(캡슐화): 하나의 클래스안에 데이터와 기능을 담아 정의하고, 중요한 데이터나 복잡한 기능 등은 숨기고, 외부에서 사용에 필요한 기능만을 공개하는 것. Inheritance(상속): 객체 정의 시 기존에 존재하는 객체의 속성과 기능을 상속받아 정의하는 것.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://hyungjun26.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hyungjun26.github.io/archives/</guid>
-      <description>archives</description>
     </item>
     
   </channel>
