@@ -5,7 +5,19 @@
     <link>https://hyungjun26.github.io/posts/</link>
     <description>Recent content in Posts on SpurDev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyungjun26.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyungjun26.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Collection</title>
+      <link>https://hyungjun26.github.io/posts/java-collection/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyungjun26.github.io/posts/java-collection/</guid>
+      <description>Java Collection 객체지향 언어인 Java에서는 수많은 객체를 생성하고 이동해야 하는 경우 객체들을 저장하고 관리하는 공간이 필요하게된다. 그래서 Collection API라는 클래스 집합을 제공하여 객체들을 효율적으로 저장, 검색, 삭제할 수 있도록 하였다.
+Collection 인터페이스   Set
+ 객체 저장 시 순서 없이 저장하고, 데이터 중복을 허용하지 않는다. HashSet : 순서가 보장되지 않고 데이터 중복을 허용하지 않는다. TreeSet : SortedSet을 구현한 클래스로 객체를 정렬하여 저장한다.    List
+ 객체 저장 시에 인덱스를 가지고 순서대로 저장하며, 중복된 데이터도 새로운 인덱스를 부여하여 저장한다.</description>
+    </item>
+    
     <item>
       <title>Java 학습(1)</title>
       <link>https://hyungjun26.github.io/posts/java-basic-oop/</link>
